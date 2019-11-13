@@ -1,0 +1,21 @@
+Basavilbaso 
+        30.56 
+        1010 
+        56
+        Cordoba 
+        25.77 
+        1014 
+        83
+        Concepcion del uruguay 
+        28.17 
+        1010 
+        56
+        Buenos Aires 
+        27.75 
+        1008 
+        83
+        Corrientes 
+        21 
+        1010 
+        94
+        
